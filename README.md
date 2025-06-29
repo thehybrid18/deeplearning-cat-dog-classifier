@@ -96,6 +96,8 @@ python app.py
 🎬 30-second trailer coming soon. VHS-style. 5-star rated. Probably.
 [DEMO TRAILER](https://drive.google.com/file/d/1oenEl_68B4zmhlkCY8DA3vD6ctPbWIZe/view?usp=drive_link)
 
+💾 Possibly my greatest work—if it were 1997 🤣🤣
+
 ## 📚 References
 
 1. [ResNet50 Paper](https://arxiv.org/abs/1512.03385)  
