@@ -37,7 +37,7 @@ The baseline model around 70 percent, while not poor, left significant room for 
 
 SageMaker tuning targeted `Test Loss` using 6 parallel jobs varying `learning_rate` and `batch_size` (hyperparameter tuning).
 
-I was impressed with the results—after just a few tuning jobs and no exhaustive architecture tweaks, we achieved ~99% accuracy. With more time, improvements like `Dropout`, `BatchNorm`, or data augmentation (e.g., color jitter, rotation) could help further regularize performance.
+I was impressed with the results—after just a few tuning jobs and no exhaustive architecture tweaks, I achieved ~99% accuracy. With more time, improvements like `Dropout`, `BatchNorm`, or data augmentation (e.g., color jitter, rotation) could help further regularize performance.
 
 ![best tuned job parameters](https://github.com/user-attachments/assets/01226f81-1896-438d-b44f-ecb882c92857)
 
