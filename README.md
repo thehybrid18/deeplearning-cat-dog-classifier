@@ -55,7 +55,7 @@ Used the [Kaggle Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats) dataset:
 - **Hyperparameter Tuning**: SageMaker `HyperparameterTuner`
 - **Web Framework**: Flask + HTML/CSS
 - **Deployment Options**: EC2 or Render
-- **Security Considerations**: HTTPS, file upload limits, logging, and basic sanitization
+- **Security Considerations**: HTTPS, file upload limits, logging, Authentication/Authorization, and basic sanitization
 
 ![diagram1](https://github.com/user-attachments/assets/8f48e332-eb87-4faa-b9b9-339d69c2c486)
 
