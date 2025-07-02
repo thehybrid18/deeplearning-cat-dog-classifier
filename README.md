@@ -88,6 +88,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
+![flasktest](https://github.com/user-attachments/assets/8e14b311-9904-4fea-a40e-2b92cba1e127)
 
 
 
