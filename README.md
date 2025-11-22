@@ -5,7 +5,7 @@
 
 A fun retro-themed image classification app that uses deep learning to distinguish between cats and dogs! This project demonstrates how to fine-tune a pretrained ResNet50 model, optimize it with Amazon SageMaker, and deploy it as a lightweight web app.
 
-🔗 **Live demo:** [CAT-DOG APP](https://catdog-web-app.onrender.com/)
+🔗 **Live demo:** [CAT-DOG WEB APPLICATION](https://catdog-web-app.onrender.com/)
 
 ## 🚀 Project Summary
 
